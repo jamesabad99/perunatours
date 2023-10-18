@@ -1,0 +1,12 @@
+{
+  "presents": [
+    [
+      "@babel/preset-env",
+      "@babel/preset-react",
+      {
+        "modules": false
+      }
+    ]
+  ],
+  "plugins": ["@babel/plugin-proposal-class-properties"]
+}
